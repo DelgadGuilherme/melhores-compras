@@ -11,9 +11,7 @@ media = (float(nota1) + float(nota2) + float(nota3))/3
 
 print("A média alcançada foi: %s" % media)
 
-if media > 7:
+if media > 6:
     print("Parabéns, produto adequado aos clientes!")
 else:
     print("Que pena, esse produto inadequado e com muitas reclamações!")
-	
-		   
